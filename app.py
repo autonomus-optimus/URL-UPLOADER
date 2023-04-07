@@ -10,7 +10,7 @@ def hello_world():
 if __name__ == "__main__":
     
 
-    API_ID = 12345
+    API_ID = 11652964
     API_HASH = "0123456789abcdef0123456789abcdef"
     BOT_TOKEN = "6152226851:AAGRUrOephKbiBbNrJussdt-oFTDMWTZ_Sk"
 
